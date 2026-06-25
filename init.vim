@@ -19,4 +19,4 @@ augroup vimrc
 		autocmd FileType * lua pcall(vim.treesitter.start)
 	endif
 augroup END
-colorscheme lunaperche
+colorscheme retrobox
